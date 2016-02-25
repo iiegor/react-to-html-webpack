@@ -1,4 +1,4 @@
-[![npm](https://img.shields.io/npm/v/react-to-html-webpack-plugin.svg?style=flat-square)](https://npmjs.org/package/react-to-html-webpack-plugin) [![Dependency Status](https://img.shields.io/david/markdalgleish/react-to-html-webpack-plugin.svg?style=flat-square)](https://david-dm.org/markdalgleish/react-to-html-webpack-plugin)
+[![npm](https://img.shields.io/npm/v/react-to-html-webpack.svg?style=flat-square)](https://npmjs.org/package/react-to-html-webpack) [![Dependency Status](https://img.shields.io/david/iiegor/react-to-html-webpack.svg?style=flat-square)](https://david-dm.org/iiegor/react-to-html-webpack)
 
 # React-to-HTML Webpack Plugin
 
@@ -11,7 +11,7 @@ Components are rendered after all source files have been compiled, so JSX works 
 ## Install
 
 ```bash
-$ npm install --save-dev react-to-html-webpack-plugin
+$ npm install --save-dev react-to-html-webpack
 ```
 
 ## Basic Usage
@@ -21,7 +21,7 @@ This basic example assumes that the React component renders `<html>` as the root
 ### webpack.config.js
 
 ```js
-var ReactToHtmlPlugin = require('react-to-html-webpack-plugin');
+var ReactToHtmlPlugin = require('react-to-html-webpack');
 
 module.exports = {
 
