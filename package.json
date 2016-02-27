@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:markdalgleish/react-to-html-webpack-plugin.git"
+    "url": "https://github.com/iiegor/react-to-html-webpack"
   },
   "author": {
     "name": "Mark Dalgleish"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/markdalgleish/react-to-html-webpack-plugin/issues"
+    "url": "https://github.com/iiegor/react-to-html-webpack/issues"
   },
-  "homepage": "https://github.com/markdalgleish/react-to-html-webpack-plugin",
+  "homepage": "https://github.com/iiegor/react-to-html-webpack",
   "dependencies": {
     "eval": "^0.1.0"
   },
